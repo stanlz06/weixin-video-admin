@@ -1,0 +1,5 @@
+com\stanlz\controller\VideoController.class
+com\stanlz\interceptor\LoginInterceptor.class
+com\stanlz\controller\UsersController.class
+com\stanlz\controller\EntranceController.class
+com\stanlz\bean\AdminUser.class
